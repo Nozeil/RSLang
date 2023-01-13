@@ -224,4 +224,4 @@ export class Api implements IApi {
     return null;
   }
 }
-export const herokuApi = new Api('https://rsschool-lang-app.herokuapp.com');
+export const herokuApi = new Api('https://rslang-l9uj.onrender.com');
